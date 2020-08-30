@@ -1,0 +1,13 @@
+{
+    "FSharp.suggestGitignore": false,
+    "spellright.language": [
+        "en",
+        "de"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "fsharp"
+    ]
+}
